@@ -1,0 +1,354 @@
+.article{
+    width: 1200px;
+    margin-top: 30px;
+}
+.article-h2{
+    color: whitesmoke;
+    display: inline-block;
+    margin-right: 35px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;  
+    letter-spacing: 2px;
+}
+.article-line{
+    height: 3px;
+    background-color: whitesmoke;
+    display: inline-block; 
+    margin-bottom: 10px;
+   
+}
+.article-line-film{
+    width: 1071px;
+   }
+.article-line-sinema{
+    width: 780px;
+   
+}
+.article-line-dizi{
+    width: 1086px;
+    
+}
+.article-line-dizi-haberleri{
+    width: 853px;
+
+}
+.article-line-listeler{
+    width: 975px;
+
+}
+.article-line-kısa-film{
+    width: 753px;
+}
+.article-line-not-defteri{
+    width: 905px;
+}
+.article-line-video-inceleme{
+    width: 833px;
+}
+.article-container{
+    margin-top: 30px;
+    width: 1200px;
+}
+.article-content{
+    float: left;
+    width: 32%;
+    height: 500px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    opacity: 0.8;
+    text-align: center;
+    letter-spacing: 3px;
+    position: relative;
+}
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+.article-content-2{
+    float: left;
+    width: 33%;
+    height: 300px;
+    margin-right: 4px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+}
+.article-content-2-text{
+    width: 100%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    letter-spacing: 2px;
+    position: absolute;
+    bottom: 0;
+}
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+  } 
+.article-content h2{ 
+   margin-top: 250px;
+   font-size: 25px;
+ }
+.article-content-margin{
+    margin-right: 24px;
+    
+}
+.article-content-rating{
+    width: 90px;
+    height: 90px;
+    background-color: #007cba;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.article-content-rating span{
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.article-content-film-1{
+    background: url(../img/titane-filmloverss.jpg);
+    background-size: cover; 
+    transition: opacity 0.5s;
+}
+.article-content-film-2{
+    background: url(../img/last-night-in-soho-filmloverss.jpg);
+    background-size: cover; 
+    transition: opacity 0.5s;
+}
+.article-content-film-3{
+    background: url(../img/The-Power-of-the-Dog-FilmLoverss.jpg);
+    background-size: cover; 
+    transition: opacity 0.5s;
+}
+.article-content-film-1:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-film-2:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-film-3:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-2-haber-1{
+    background: url(../img/orson-welles-citizen-kane-filmloverss-1.jpg);
+    background-size: cover; 
+}
+.article-content-2-haber-2{
+    background: url(../img/Doctor_Strange_filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-haber-3{
+    background: url(../img/The_Northman_filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-haber-4{
+    background: url(../img/Pelin-Esmer-roportaji-filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-haber-5{
+    background: url(../img/Barrack_Obama_filmloverss-1.jpg);
+    background-size: cover;
+}
+.article-content-2-haber-6{
+    background: url(../img/denis-villeneuve-arrival-FilmLoverss-1.jpg);
+    background-size: cover;
+}
+.article-content-dizi-1{
+    background: url(../img/kulup-filmloverss.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-dizi-2{
+    background: url(../img/scenes-from-a-marriage-filmloverss.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-dizi-3{
+    background: url(../img/hamlet-filmloverss-1.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-dizi-1:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-dizi-2:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-dizi-3:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}    
+.article-content-2-dizi-haber-1{
+    background: url(../img/nilipek-sahinkaya.jpg);
+    background-size: cover;
+}
+.article-content-2-dizi-haber-2{
+    background: url(../img/ted-lasso.jpg);
+    background-size: cover;
+}
+.article-content-2-dizi-haber-3{
+    background: url(../img/himyf.jpg);
+    background-size: cover;
+}
+.left-right-buttons{
+    
+    float: right;
+    color: black;
+    background-color: whitesmoke;
+    padding: 17px;
+    transition: background-color 0.5s;
+   
+}
+.left-right-buttons:hover{
+    color: white;
+    background-color: black;
+}
+.list-box{
+    width: 32%;
+    color: whitesmoke;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 22px;
+    letter-spacing: 2px;
+    float: left;
+    padding-bottom: 30px;
+    border-bottom: 2px solid whitesmoke;
+    position: relative;
+}
+.list-box-content{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.list-box-content p{
+    font-size: 10px;
+}
+.list-box-content h6{
+    margin-bottom: 14px;
+}
+.list-box-other-box a{
+    background-color: rgb(61, 58, 58);
+    color: whitesmoke;
+    padding: 8px;
+    font-size: 7px;
+    text-decoration: none;
+    transition: background-color 0.5s;
+}
+.list-box-image-container {
+    position: relative;
+}
+.list-box-image-container:after {
+    content: '';
+    width: 99.5%;
+    height: 98%;    
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+
+.list-box-image-container:hover:after {
+    background-color: #007cba;
+    opacity: 0.5;
+}
+
+.list-box i{
+    position: absolute;
+    left: 165px;
+    top: 100px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+.list-box-other-box a:hover{
+    background-color: black;
+}
+
+.green-box-hover{
+    width: 32%;
+    height: 254.66px;
+}
+.article-content-2-not-defteri-1{
+    background: url(../img/dexter-new-blood-filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-not-defteri-2{
+    background: url(../img/hicbiryerde-filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-not-defteri-3{
+    background: url(../img/selamsızlar-bandosu.jpg);
+    background-size: cover;
+}
+.article-content-2-not-defteri-4{
+    background: url(../img/david-cronenberg-nft-filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-not-defteri-5{
+    background: url(../img/france-2-filmloverss.jpg);
+    background-size: cover;
+}
+.article-content-2-not-defteri-6{
+    background: url(../img/kate-winslet.jpg);
+    background-size: cover;
+}
+.article-content-video-inceleme-1{
+    background: url(../img/orson-welles-citizen-kane-filmloverss.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-video-inceleme-2{
+    background: url(../img/antonioni-filmloverss.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-video-inceleme-3{
+    background: url(../img/thelma-schoonmaker-2-filmloverss.jpg);
+    background-size: cover;
+    transition: opacity 0.5s;
+}
+.article-content-video-inceleme-1:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-video-inceleme-2:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.article-content-video-inceleme-3:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    height: 300px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 80px;
+    line-height: 70px;
+    position: relative;
+}
+.footer-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 15%;
+}
+.footer i{
+    color: aliceblue;
+    display: inline-block;
+    transition: margin-top 0.1s;
+}
+.footer i:hover{
+    margin-top: -20%;
+}
+

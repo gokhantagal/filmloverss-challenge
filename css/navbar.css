@@ -1,0 +1,27 @@
+.navbar{
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.navbar a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 15px 17px;
+    transition: background-color 0.5s;
+   
+}
+.navbar a:hover{
+    color: whitesmoke;
+    background-color: #007cba;
+}
+
+
+
+
+
