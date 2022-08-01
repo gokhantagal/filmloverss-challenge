@@ -111,17 +111,17 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .article-content-film-1{
-    background: url(../img/titane-filmloverss.jpg);
+    background: url(./img/titane-filmloverss.jpg);
     background-size: cover; 
     transition: opacity 0.5s;
 }
 .article-content-film-2{
-    background: url(../img/last-night-in-soho-filmloverss.jpg);
+    background: url(./img/last-night-in-soho-filmloverss.jpg);
     background-size: cover; 
     transition: opacity 0.5s;
 }
 .article-content-film-3{
-    background: url(../img/The-Power-of-the-Dog-FilmLoverss.jpg);
+    background: url(./img/The-Power-of-the-Dog-FilmLoverss.jpg);
     background-size: cover; 
     transition: opacity 0.5s;
 }
@@ -138,41 +138,41 @@
     cursor: pointer;
 }
 .article-content-2-haber-1{
-    background: url(../img/orson-welles-citizen-kane-filmloverss-1.jpg);
+    background: url(./img/orson-welles-citizen-kane-filmloverss-1.jpg);
     background-size: cover; 
 }
 .article-content-2-haber-2{
-    background: url(../img/Doctor_Strange_filmloverss.jpg);
+    background: url(./img/Doctor_Strange_filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-haber-3{
-    background: url(../img/The_Northman_filmloverss.jpg);
+    background: url(./img/The_Northman_filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-haber-4{
-    background: url(../img/Pelin-Esmer-roportaji-filmloverss.jpg);
+    background: url(./img/Pelin-Esmer-roportaji-filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-haber-5{
-    background: url(../img/Barrack_Obama_filmloverss-1.jpg);
+    background: url(./img/Barrack_Obama_filmloverss-1.jpg);
     background-size: cover;
 }
 .article-content-2-haber-6{
-    background: url(../img/denis-villeneuve-arrival-FilmLoverss-1.jpg);
+    background: url(./img/denis-villeneuve-arrival-FilmLoverss-1.jpg);
     background-size: cover;
 }
 .article-content-dizi-1{
-    background: url(../img/kulup-filmloverss.jpg);
+    background: url(./img/kulup-filmloverss.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
 .article-content-dizi-2{
-    background: url(../img/scenes-from-a-marriage-filmloverss.jpg);
+    background: url(./img/scenes-from-a-marriage-filmloverss.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
 .article-content-dizi-3{
-    background: url(../img/hamlet-filmloverss-1.jpg);
+    background: url(./img/hamlet-filmloverss-1.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
@@ -189,15 +189,15 @@
     cursor: pointer;
 }    
 .article-content-2-dizi-haber-1{
-    background: url(../img/nilipek-sahinkaya.jpg);
+    background: url(./img/nilipek-sahinkaya.jpg);
     background-size: cover;
 }
 .article-content-2-dizi-haber-2{
-    background: url(../img/ted-lasso.jpg);
+    background: url(./img/ted-lasso.jpg);
     background-size: cover;
 }
 .article-content-2-dizi-haber-3{
-    background: url(../img/himyf.jpg);
+    background: url(./img/himyf.jpg);
     background-size: cover;
 }
 .left-right-buttons{
@@ -278,41 +278,41 @@
     height: 254.66px;
 }
 .article-content-2-not-defteri-1{
-    background: url(../img/dexter-new-blood-filmloverss.jpg);
+    background: url(./img/dexter-new-blood-filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-not-defteri-2{
-    background: url(../img/hicbiryerde-filmloverss.jpg);
+    background: url(./img/hicbiryerde-filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-not-defteri-3{
-    background: url(../img/selamsızlar-bandosu.jpg);
+    background: url(./img/selamsızlar-bandosu.jpg);
     background-size: cover;
 }
 .article-content-2-not-defteri-4{
-    background: url(../img/david-cronenberg-nft-filmloverss.jpg);
+    background: url(./img/david-cronenberg-nft-filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-not-defteri-5{
-    background: url(../img/france-2-filmloverss.jpg);
+    background: url(./img/france-2-filmloverss.jpg);
     background-size: cover;
 }
 .article-content-2-not-defteri-6{
-    background: url(../img/kate-winslet.jpg);
+    background: url(./img/kate-winslet.jpg);
     background-size: cover;
 }
 .article-content-video-inceleme-1{
-    background: url(../img/orson-welles-citizen-kane-filmloverss.jpg);
+    background: url(./img/orson-welles-citizen-kane-filmloverss.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
 .article-content-video-inceleme-2{
-    background: url(../img/antonioni-filmloverss.jpg);
+    background: url(./img/antonioni-filmloverss.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
 .article-content-video-inceleme-3{
-    background: url(../img/thelma-schoonmaker-2-filmloverss.jpg);
+    background: url(./img/thelma-schoonmaker-2-filmloverss.jpg);
     background-size: cover;
     transition: opacity 0.5s;
 }
